@@ -36,7 +36,7 @@
     "debug": "~2.2.0"
   },
   "optionalDependencies": {
-    "bluetooth-hci-socket": "^0.5.1",
+    "bluetooth-hci-socket": "git+https://git@github.hpe.com/Raven/node-bluetooth-hci-socket#0.5.1-timestamp",
     "bplist-parser": "0.0.6",
     "xpc-connection": "~0.1.4"
   },
